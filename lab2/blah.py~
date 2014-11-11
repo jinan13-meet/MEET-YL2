@@ -1,0 +1,11 @@
+class Animal():
+	
+	def __ init __(self, name, age):
+		self.name = name
+		self.age = age
+	def sleep (self)
+		self.name = name
+		self.age = age
+x = Animal("meet", 11)
+x.sleep()
+
