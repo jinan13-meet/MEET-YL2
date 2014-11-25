@@ -14,6 +14,12 @@ class bird(Animal):
 	
 	def fly (self):
 		print "bird" + " " + self.name + " " + str(self.age) + " " + self.wings_color
+#class dog(Animal):
+#	def __init__(self,name,age):
+#	Animal.__init__(self,name,age)
+
+#	def bark (self):
+
 
 
 
